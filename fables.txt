@@ -1,0 +1,11 @@
+/fables/fable/title
+/fables/child::fable
+/descendant::character
+//character
+//character/@ref
+/descendant::*@ref
+//fables/fable/descendant::*
+//@*
+//fable/m/ancestor::fable
+//action[3]
+//fables/descendant::action[3]

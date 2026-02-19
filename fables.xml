@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fables>
+    <fable>
+        <title>The Wolf and the Lamb </title>
+        A
+        <character type="animal" class="wolf" gender="male">WOLF</character>
+        , meeting with a
+        <character type="animal" class="lamb" gender="male">Lamb</character>
+        astray from the fold, resolved not to lay violent hands on him, but to find some plea to
+        <action ref="wolf">
+            justify to the
+            <character ref="lamb">Lamb</character>
+            the
+            <character ref="wolf">Wolf's</character>
+            right to eat him.
+        </action>
+        He thus addressed him:
+        <action ref="wolf">“Sirrah, last year you grossly insulted me.”</action>
+        <action ref="lamb">
+            “Indeed,” bleated the
+            <character ref="lamb">Lamb</character>
+            in a mournful tone of voice, “I was not then born.”
+        </action>
+        Then said the
+        <character ref="wolf">Wolf</character>
+        ,
+        <action ref="wolf">“You feed in my pasture.”</action>
+        <action ref="lamb">
+            “No, good sir,” replied the
+            <character ref="lamb">Lamb</character>
+            , “I have not yet tasted grass.”
+        </action>
+        Again said the
+        <character ref="wolf">Wolf</character>
+        ,
+        <action ref="wolf">“You drink of my well.”</action>
+        <action ref="lamb">
+            “No,” exclaimed the
+            <character ref="lamb">Lamb</character>
+            , “I never yet drank water, for as yet my mother's milk is both food and drink to me.”
+        </action>
+        Upon which the
+        <character ref="wolf">Wolf</character>
+        <action ref="wolf">seized him and ate him up</action>
+        , saying,
+        <action ref="wolf">“Well! I won't remain supperless, even though you refute every one of my imputations.”</action>
+        <m>The tyrant will always find a pretext for his tyranny.</m>
+    </fable>
+    <fable>
+        <title>The Bat and the Weasels </title>
+        A
+        <character type="animal" class="bat" gender="male">BAT</character>
+        who
+        <action ref="bat">fell</action>
+        upon the ground and
+        <action ref="bat">was caught</action>
+        by a
+        <character type="animal" class="weasel" gender="male">Weasel</character>
+        <action ref="bat">pleaded to be spared his life</action>
+        . The
+        <character ref="weasel">Weasel</character>
+        refused,
+        <action ref="weasel">saying that he was by nature the enemy of all birds</action>
+        . The
+        <character ref="bat">Bat</character>
+        <action ref="bat">assured him that he was not a bird, but a mouse,</action>
+        and thus
+        <action ref="bat">was set free</action>
+        . Shortly afterwards the
+        <character ref="bat">Bat</character>
+        again
+        <action ref="bat">fell</action>
+        to the ground and
+        <action ref="bat">was caught</action>
+        by another
+        <character ref="weasel">Weasel</character>
+        , whom he likewise
+        <action ref="bat">entreated not to eat him</action>
+        . The
+        <character ref="weasel">Weasel</character>
+        <action ref="weasel">said that he had a special hostility to mice</action>
+        . The Bat
+        <action ref="bat">assured him that he was not a mouse, but a bat</action>
+        , and thus a second time
+        <action ref="bat">escaped</action>
+        .
+        <m>It is wise to turn circumstances to good account.</m>
+    </fable>
+    <fable>
+        <title>The Ass and the Grasshopper </title>
+        AN
+        <character type="animal" class="ass" gender="male">ASS</character>
+        having heard some
+        <character type="animal" class="grasshopper">Grasshoppers</character>
+        chirping, was highly enchanted; and,
+        <action ref="ass">desiring to possess the same charms of melody, demanded what sort of food they lived on</action>
+        to give them such beautiful voices.
+        <action ref="grasshopper">They replied, “The dew.”</action>
+        The
+        <character ref="ass">Ass</character>
+        <action ref="ass">resolved that he would live only upon dew, and in a short time died of hunger</action>
+        .
+    </fable>
+    <fable>
+        <title>The Lion and the Mouse </title>
+        A
+        <character type="animal" class="lion" gender="male">LION</character>
+        was awakened from sleep by a
+        <character type="animal" class="mouse" gender="male">Mouse</character>
+        running over his face. Rising up angrily,
+        <action ref="lion">he caught him and was about to kill him</action>
+        , when the
+        <character ref="mouse">Mouse</character>
+        piteously entreated, saying:
+        <action ref="mouse">“If you would only spare my life, I would be sure to repay your kindness.”</action>
+        The
+        <character ref="lion">Lion</character>
+        <action ref="lion">laughed and let him go</action>
+        . It happened shortly after this that the
+        <character ref="lion">Lion</character>
+        was
+        <action ref="lion">caught by some hunters</action>
+        , who bound him by st ropes to the ground. The
+        <character ref="mouse">Mouse</character>
+        , recognizing his roar, came, gnawed the rope with his teeth, and
+        <action ref="mouse">set him free</action>
+        , exclaiming
+        <action ref="mouse">“You ridiculed the idea of my ever being able to help you, expecting to receive from me any repayment of your favor; I now you know that it is possible for even a Mouse to confer benefits on a Lion.”</action>
+    </fable>
+    <fable>
+        <title>The Charcoal-Burner and the Fuller </title>
+        A
+        <character type="human" class="charcoal_burner" gender="male">CHARCOAL-BURNER</character>
+        carried on his trade in his own house. One day he met a friend, a
+        <character type="human" class="fuller" gender="male">Fuller</character>
+        , and
+        <action ref="charcoal_burner">entreated him to come and live with him</action>
+        , saying
+        <action ref="charcoal_burner">that they should be far better neighbors and that their housekeeping expenses would be lessened</action>
+        . The
+        <character ref="fuller">Fuller</character>
+        replied,
+        <action ref="fuller">“The arrangement is impossible as far as I am concerned, for whatever I should whiten, you would immediately blacken again with your charcoal.”</action>
+        <m>Like will draw like.</m>
+    </fable>
+    <fable>
+        <title>The Father and His Sons </title>
+        A
+        <character type="human" class="father" gender="male">FATHER</character>
+        had a family of
+        <character type="human" class="son" gender="male">sons</character>
+        who were perpetually
+        <action ref="son">quarreling among themselves</action>
+        . When he failed to heal their disputes by his exhortations, he determined to
+        <action ref="father">give them a practical illustration of the evils of disunion</action>
+        ; and for this purpose he one day told them to bring him a bundle of sticks. When they had done so,
+        <action ref="father">he placed the faggot into the hands of each of them in succession, and ordered them to break it in pieces</action>
+        . They
+        <action ref="son">tried with all their strength, and were not able to do it</action>
+        . He next opened the faggot,
+        <action ref="father"> took the sticks separately, one by one, and again put them into his sons” hands</action>
+        , upon which they
+        <action ref="son">broke them easily</action>
+        . He then addressed them in these words:
+        <action ref="father">“My sons, if you are of one mind, and unite to assist each other, you will be as this faggot, uninjured by all the attempts of your enemies; but if you are divided among yourselves, you will be broken as easily as these sticks.”</action>
+    </fable>
+    <fable>
+        <title>The Boy Hunting Locusts </title>
+        A
+        <character type="human" class="boy" gender="male">BOY</character>
+        was
+        <action ref="boy">hunting for locusts</action>
+        . He had caught a goodly number, when he saw a
+        <character type="animal" class="scorpion" gender="male">Scorpion</character>
+        , and
+        <action ref="boy">mistaking him for a locust, reached out his hand to take him.</action>
+        The
+        <character ref="scorpion">Scorpion</character>
+        , showing his sting, said:
+        <action ref="scorpion">“If you had but touched me, my friend, you would have lost me, and all your locusts too!”</action>
+    </fable>
+    <fable>
+        <title>The Cock and the Jewel </title>
+        A
+        <character type="animal" class="cock" gender="male">COCK</character>
+        , scratching for food for himself and his hens,
+        <character ref="cock">found a precious stone</character>
+        and exclaimed:
+        <action ref="cock">“If your owner had found thee, and not I, he would have taken thee up, and have set thee in thy first estate; but I have found thee for no purpose. I would rather have one barleycorn than all the jewels in the world.”</action>
+    </fable>
+    <fable>
+        <title>The Kingdom of the Lion </title>
+        THE
+        <character type="animal" class="beast">BEASTS</character>
+        of the field and forest had a
+        <character type="animal" class="lion" gender="male">Lion</character>
+        as their king. He was
+        <action ref="lion">neither wrathful, cruel, nor tyrannical, but just and gentle as a king could be</action>
+        . During his reign he made a royal proclamation for a general assembly of all the birds and beasts, and
+        <action ref="lion">drew up conditions for a universal league</action>
+        , in which the Wolf and the Lamb, the Panther and the Kid, the Tiger and the Stag, the Dog and the Hare,
+        <action ref="beast">should live together in perfect peace and amity</action>
+        . The
+        <character type="animal" class="hare" gender="male">Hare</character>
+        said,
+        <action ref="hare">“Oh, how I have longed to see this day, in which the weak shall take their place with impunity by the side of the strong.”</action>
+        And after the
+        <character ref="hare">Hare</character>
+        said this, he
+        <action ref="hare">ran for his life</action>
+        .
+    </fable>
+    <fable>
+        <title>The Wolf and the Crane </title>
+        A
+        <character type="animal" class="wolf" gender="male">WOLF</character>
+        who had a bone stuck in his throat hired a
+        <character type="animal" class="crane" gender="female">Crane</character>
+        , for a large sum, to
+        <action ref="wolf">put her head into his mouth and draw out the bone</action>
+        . When the
+        <character ref="crane">Crane</character>
+        had
+        <action ref="wolf">extracted the bone and demanded the promised payment</action>
+        , the
+        <character ref="wolf">Wolf</character>
+        ,
+        <action ref="wolf">grinning and grinding his teeth</action>
+        , exclaimed:
+        <action ref="wolf">“Why, you have surely already had a sufficient recompense, in having been permitted to draw out your head in safety from the mouth and jaws of a wolf.”</action>
+        <m>In serving the wicked, expect no reward, and be thankful if you escape injury for your pains.</m>
+    </fable>
+</fables>

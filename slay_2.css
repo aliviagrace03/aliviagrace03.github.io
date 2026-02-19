@@ -1,0 +1,26 @@
+body { 
+               background-color:lightblue;
+               opacity: 0.3
+               font-family:arial, helvetica, sans-serif;
+            } 
+body {
+  color: blue;
+}
+
+h1 {
+  color: green;
+  <h1 style="color:lightgreen;">Slay</h1>
+<p style="color:lightpurple;">Silly</p>
+<p style="color:lightyellow;">This is my site for class</p>
+}
+
+h2 {
+  color: purple
+}
+div {
+  width: 320px;
+  height: 50px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+}
